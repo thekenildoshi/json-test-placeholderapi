@@ -1,5 +1,4 @@
-{
-  
+[
   {
     "userId": 1,
     "id": 1,
@@ -18,5 +17,4 @@
     "title": "Smith",
     "body": "ann@codingthesmartway.com"
   }
-
-}
+]
